@@ -1,4 +1,4 @@
-# Gemini Pro Chat Bot
+# Namami Gange Chat Bot
 
 This project is Gemini-Pro Based AI chat bot built with Next.js and TypeScript. It uses an AI model to generate responses to user input (either text or image).
 
